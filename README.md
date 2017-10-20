@@ -1,6 +1,6 @@
-# react-beautiful-dnd
+# preact-beautiful-dnd
 
-Beautiful, accessible drag and drop for lists with [`React.js`](https://facebook.github.io/react/)
+Beautiful, accessible drag and drop for lists with [`Preact.js`](https://github.com/developit/preact/)
 
 [![Build Status](https://travis-ci.org/atlassian/react-beautiful-dnd.svg?branch=master)](https://travis-ci.org/atlassian/react-beautiful-dnd) [![dependencies](https://david-dm.org/atlassian/react-beautiful-dnd.svg)](https://david-dm.org/atlassian/react-beautiful-dnd) [![SemVer](https://img.shields.io/badge/SemVer-2.0.0-brightgreen.svg)](http://semver.org/spec/v2.0.0.html)
 [![npm](https://img.shields.io/npm/v/react-beautiful-dnd.svg)](https://www.npmjs.com/package/react-beautiful-dnd)
